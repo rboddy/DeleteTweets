@@ -1,2 +1,2 @@
 # DeleteTweets
-Just a little applet that will delete every tweet you've ever sent if you want a fresh start.
+A python script that will delete tweets in bulk if you feed it a txt or csv of Tweet IDs. Blog post pending on usage.
